@@ -10,7 +10,7 @@
  - ### Copy & Run the Commands in Cloud Shell Terminal :
 
 ```
-curl -LO https://github.com/Titash-shil/Connect-to-Cloud-SQL-from-an-Application-in-Google-Kubernetes-Engine-GSP449/blob/main/qwiklab_explorers_gsp449.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Connect-to-Cloud-SQL-from-an-Application-in-Google-Kubernetes-Engine-GSP449/refs/heads/main/qwiklab_explorers_gsp449.sh
 
 sudo chmod +x qwiklab_explorers_gsp449.sh
 
